@@ -1,9 +1,4 @@
 <div align= center>
-<<<<<<< HEAD
- background-color: #79cb15;
- background-image: url(./assets/ingredientes-de-hamburguer-de-vista-superior-em-uma-placa-de-corte.jpg);
-=======
->>>>>>> a8b184fec5d6915a7a27082d75f74eb1841b0351
     <h1>Dev-Burger</h1>
 </div>
 <br>
@@ -23,6 +18,7 @@
 <img src="https://github.com/sidnei-leao/DevClub-Burger/blob/main/assets/Captura%20de%20tela%202025-09-23%20183550%2002.png?raw=true">
 <img src="https://github.com/sidnei-leao/DevClub-Burger/blob/main/assets/Captura%20de%20tela%202025-09-23%20183633%2003.png?raw=true">
 <img src=https://github.com/sidnei-leao/DevClub-Burger/blob/main/assets/Captura%20de%20tela%202025-09-23%20183710%2004.png?raw=true"">
+
 
 
 
