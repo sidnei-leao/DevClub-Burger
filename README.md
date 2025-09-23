@@ -1,4 +1,5 @@
 <div align= center>
+ background-color: #79cb15;
  background-image: url(./assets/ingredientes-de-hamburguer-de-vista-superior-em-uma-placa-de-corte.jpg);
     <h1>Dev-Burger</h1>
 </div>
