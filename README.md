@@ -14,7 +14,8 @@
 </div>
  
 <p>Map, Filter e Reduce</p>
-<img src="">
+
+
 
 
 
