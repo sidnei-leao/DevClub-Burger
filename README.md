@@ -15,6 +15,7 @@
  
 <p>Map, Filter e Reduce</p>
 <img src="https://github.com/sidnei-leao/DevClub-Burger/blob/main/assets/Captura%20de%20tela%202025-09-23%20183449%2001.png?raw=true">
+<img src="https://github.com/sidnei-leao/DevClub-Burger/blob/main/assets/Captura%20de%20tela%202025-09-23%20183550%2002.png?raw=true">
 
 
 
